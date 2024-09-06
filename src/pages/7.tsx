@@ -347,7 +347,8 @@ export default function Fifth_SP() {
     <div>
      {/* <ToastContainer /> */}
      <div  className="top-sticky-blue-test2" id="top">
-     <img src={aa} alt="Description of " style={{ height: '74%', maxWidth: '74%', }} />
+     {/* <img src={aa} alt="Description of " style={{ height: '74%', maxWidth: '74%', }} /> */}
+     <h5>SENIOR BENIFITS</h5>
   </div>
 
       {step === "process" ? (
@@ -430,7 +431,7 @@ export default function Fifth_SP() {
 				<p>Enrollment in Medicare/Medicare Advantage may be limited to certain times of the year unless you qualify for a Special Enrollment Period
 
 				</p>
-				<p>benefitsforusa.com is not connected with or endorsed by the US government or Federal Medicare program. This website is a solicitation for insurance and Medicare Advantage, Part D or Medicare supplement insurance comparison services. Medicare supplement insurance is available to those age 65 or older enrolled in Medicare Parts A and B, and in some states to those under age 65 eligible to Medicare due to disability or end stage renal disease.
+				<p>latestseniorsnewsbenefits.com is not connected with or endorsed by the US government or Federal Medicare program. This website is a solicitation for insurance and Medicare Advantage, Part D or Medicare supplement insurance comparison services. Medicare supplement insurance is available to those age 65 or older enrolled in Medicare Parts A and B, and in some states to those under age 65 eligible to Medicare due to disability or end stage renal disease.
 				</p>
 				<p>We do not offer every plan available in your area. Currently we represent [insert number of organizations] organizations which offer [insert number of plans] products in your area. Please contact Medicare.gov, 1–800–MEDICARE, or your local State Health Insurance Program (SHIP) to get information on all of your options.</p>
         <div className="terms2">
